@@ -20,12 +20,12 @@
 
 #define DEF_WLAN_2G_CC		"CN"
 #define DEF_WLAN_5G_CC		"US"
-#define DEF_WLAN_2G_SSID	"2.4G"
-#define DEF_WLAN_5G_SSID	"5G"
+#define DEF_WLAN_2G_SSID	"test_wifi_2.4G"
+#define DEF_WLAN_5G_SSID	"test_wifi_5G"
 #define DEF_WLAN_2G_GSSID	BOARD_PID "_GUEST_%s"
 #define DEF_WLAN_5G_GSSID	BOARD_PID "_GUEST_5G_%s"
-#define DEF_WLAN_2G_PSK		"00123456"
-#define DEF_WLAN_5G_PSK		"00123456"
+#define DEF_WLAN_2G_PSK		"12345600"
+#define DEF_WLAN_5G_PSK		"12345600"
 
 #define DEF_ROOT_PASSWORD	"admin"
 #define DEF_SMB_WORKGROUP	"WORKGROUP"
